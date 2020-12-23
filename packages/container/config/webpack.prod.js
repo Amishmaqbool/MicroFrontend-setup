@@ -21,4 +21,4 @@ const prodConfig = {
     ],
 };
 
-module.exports = merge(commonConfig, prodConfig);aaa
+module.exports = merge(commonConfig, prodConfig);
